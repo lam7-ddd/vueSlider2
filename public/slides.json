@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "imageUrl": "https://photoandculture-tokyo.com/dat/galleryimg/112/1.jpg",
+      "comment": "美しい自然の風景"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://photoandculture-tokyo.com/dat/galleryimg/113/1.jpg",
+      "comment": "活気あふれる都市の景色"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://photoandculture-tokyo.com/dat/galleryimg/114/1.jpg",
+      "comment": "美味しそうな料理"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://photoandculture-tokyo.com/dat/galleryimg/115/1.jpg",
+      "comment": "最新のテクノロジー"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://photoandculture-tokyo.com/dat/galleryimg/116/1.jpg",
+      "comment": "かわいい動物たち"
+    }
+  ],
+  "backgroundImages": [
+    "https://source.unsplash.com/random/1920x1080?abstract",
+    "https://source.unsplash.com/random/1920x1080?landscape",
+    "https://source.unsplash.com/random/1920x1080?pattern",
+    "https://source.unsplash.com/random/1920x1080?texture",
+    "https://source.unsplash.com/random/1920x1080?sky"
+  ]
+}
